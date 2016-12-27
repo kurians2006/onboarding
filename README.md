@@ -2,7 +2,7 @@
 
 ### Sample
 
-![Onboarding Sample](http://www.woutervdkamp.nl/gif/onboarding.gif)
+![Onboarding Sample](https://github.com/Wouter125/onboarding/blob/master/SignIn_Alt.gif)
 
 ### About
 
