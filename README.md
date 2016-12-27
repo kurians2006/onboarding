@@ -2,6 +2,8 @@
 
 ### Sample
 
+![Onboarding Sample](http://www.woutervdkamp.nl/gif/onboarding.gif)
+
 ### About
 
 Onboarding is a simple sign in and sign up form for iOS apps, fully written in [Swift](https://developer.apple.com/swift/). The project is giving users a full onboarding experience when launching there newly downloaded app, but also an easy to use and distraction-free form. 
